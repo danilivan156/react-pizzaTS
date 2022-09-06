@@ -1,0 +1,11 @@
+.fullpizza-wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    img{
+        width: 100%;
+    }
+    a{
+        margin-top: 10px;
+    }
+}
